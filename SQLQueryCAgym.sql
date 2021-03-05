@@ -1,3 +1,6 @@
+--This is project of database for gym where you can find stored procedures, views etc.
+
+
 --creating Trainer table
 
 create table Trainer
@@ -420,7 +423,7 @@ go
 --with this Member if they have made their final 
 --payment and requested their details be deleted, as per GDPR compliance, i.e. 
 --they did not tick the box. This data must be FULLY deleted, i.e. a
---“hard delete”, delete member within 30 days after end of membership 
+--Â“hard deleteÂ”, delete member within 30 days after end of membership 
 --but if member ticket GDPR box will be set to not active(soft delete)
 
 
