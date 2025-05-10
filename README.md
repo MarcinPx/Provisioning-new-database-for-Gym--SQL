@@ -17,4 +17,4 @@ a.	SQL view to see all active members their program and trainer details
 10.	In terms of deleted member data view:
 a.	SQL view to see not active members that ticked GDPR Data box
 
-For more datailed info look for CAgymMarcinPelech-G.docx file.
+For more datailed info look for Project-Gym-G.docx file.
